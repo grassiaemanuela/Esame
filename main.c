@@ -6,6 +6,6 @@ int main()
     for (int i=0; i<5; i++){
          printf ("%d", i);
          }
-    printf("Ciclo for!\n")
+    printf("Ciclo for!\n");
     return 0;
 }
